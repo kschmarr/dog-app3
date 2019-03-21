@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none;
+}
+
+.also-hidden {
+  display: none;
+}
+
+.results-img {
+  width: 60%;
+}
+
+.no-dog {
+  color: red;
+}
